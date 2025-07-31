@@ -34,9 +34,18 @@ This project is a simple and clean *responsive blog layout* built entirely with 
 
 ## ✍ How to Use
 
-1. Clone or download this repository.
-2. Open the index.html file in your browser.
-3. Customize blog content, images, or theme colors as needed.
+1. *Clone this repository:*
+   ```bash
+   git clone https://github.com/Anuj-ml/Responsive-tailwind-blog-page.git
+2. *Open the project folder:*
+
+   ```bash
+   cd Responsive-tailwind-blog-page
+3. *Open the HTML file in your browser:*
+   ```bash
+   start tailwind.html
+
+Or just double-click index.html
 
 ---
 
